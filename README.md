@@ -1,1 +1,3 @@
-# Slider---American-Food
+# Slider - American-Food
+
+https://tatsianazhylevich.github.io/Slider---American-Food/
